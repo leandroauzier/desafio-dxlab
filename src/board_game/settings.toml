@@ -1,0 +1,6 @@
+ENV_BEHAVIOUR = ["impulsivo", "exigente", "cauteloso", "aleatorio"]
+ENV_PROPERTIES = 20
+ENV_SIMULATIONS = 300
+ENV_TIMEOUT_ROUND = 1000
+ENV_BALANCE = 300.0
+ENV_BALANCE_ROUND = 100.0
